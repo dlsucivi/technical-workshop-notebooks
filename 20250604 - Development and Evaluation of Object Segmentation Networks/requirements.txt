@@ -1,0 +1,14 @@
+# Core dependencies
+torch>=1.13.0
+torchvision>=0.14.0
+numpy>=1.21
+Pillow>=8.0.0
+
+# Visualization
+matplotlib>=3.4
+
+# COCO API and masks
+pycocotools>=2.0.6
+
+# OpenCV for image handling
+opencv-python>=4.5.3.56
