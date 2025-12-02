@@ -1,0 +1,6 @@
+Network,Class,S,FWB,E,MAE
+PFNet_Custom,AVERAGE,0.964,0.868,0.938,0.012
+PFNet_Custom,Chameleon,0.695,0.489,0.85,0.037
+PFNet_Custom,Cat,0.75,0.557,0.895,0.058
+PFNet_Custom,Dog,0.903,0.829,0.973,0.008
+PFNet_Custom,Owl,0.81,0.7,0.88,0.043

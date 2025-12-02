@@ -1,0 +1,6 @@
+Network,Class,S,FWB,E,MAE
+HitNet,AVERAGE,0.81,0.7,0.88,0.043
+HitNet,Chameleon,0.664,0.483,0.819,0.046
+HitNet,Cat,0.79,0.642,0.898,0.038
+HitNet,Dog,0.829,0.817,0.968,0.015
+HitNet,Owl,0.84,0.739,0.918,0.028

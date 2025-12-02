@@ -1,0 +1,6 @@
+Network,Class,S,FWB,E,MAE
+RisNet_NoDepth,AVERAGE,0.84,0.739,0.918,0.028
+RisNet_NoDepth,Chameleon,0.589,0.421,0.701,0.07
+RisNet_NoDepth,Cat,0.652,0.533,0.823,0.08
+RisNet_NoDepth,Dog,0.842,0.761,0.874,0.024
+RisNet_NoDepth,Owl,0.737,0.66,0.838,0.06
