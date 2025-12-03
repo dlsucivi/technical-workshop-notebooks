@@ -1,0 +1,8 @@
+nuimages-devkit
+numpy
+scikit-learn
+pathlib
+matplotlib
+opencv-python
+tqdm
+ipykernel
